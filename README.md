@@ -1,7 +1,7 @@
 # NewsScrapperPy
 A SIMPLE BBC NEWS SRACPPING TOOL USING STREAMLIT AND SELENIUM IN PYTHON
 
-```
+
 # NewsScrapperPy
 
 NewsScrapperPy is a Streamlit web application that allows users to scrape and summarize news articles from the BBC website. The application utilizes Selenium for web scraping and Hugging Face's Transformers library for text summarization.
@@ -17,7 +17,7 @@ NewsScrapperPy is a Streamlit web application that allows users to scrape and su
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/your_username/NewsScrapperPy.git
    ```
 
