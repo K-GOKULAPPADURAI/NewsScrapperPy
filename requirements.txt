@@ -1,0 +1,7 @@
+transformers
+tensorflow
+tf-keras
+selenium
+bs4
+webdriver-manager
+streamlit
